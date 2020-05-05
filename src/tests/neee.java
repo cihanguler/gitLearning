@@ -1,10 +1,8 @@
 package tests;
 
-public class Login {
+public class neee {
 
     public static void main(String[] args) {
-
-
-        System.out.println("yesss");
+        System.out.println("helllo");
     }
 }
